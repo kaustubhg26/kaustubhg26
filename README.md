@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Kaustubh Gupta
+- 👋 Hi, I’m @kaustubhg26
 - 👀 I’m interested in learning new Software Technologies.
-- 🌱 I’m currently learning SwiftUI and Python
 - 📫 React out to me via mkaustubhg@outlook.com
-- I Love Programming
